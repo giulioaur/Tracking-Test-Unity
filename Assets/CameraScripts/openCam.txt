@@ -1,0 +1,1 @@
+raspivid -w 800 -h 600 -b 2600000 -fps 30 -o video.h264 -t 0 -pf main -v
